@@ -1,0 +1,28 @@
+﻿<Window x:Class="MTVikasLalka.LogInForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MTVikasLalka"
+        mc:Ignorable="d"
+        Title="LogInForm" Height="307.64" Width="378.807" Background="LightGray">
+    <Grid Margin="0,0,12.8,4.4" OpacityMask="#FF913131">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="166.4"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="21*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="106*"/>
+            <ColumnDefinition Width="53*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="label" Content="LogIn Form" HorizontalAlignment="Left" Margin="21,21,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Height="53" Width="163" Grid.ColumnSpan="3"/>
+        <Label x:Name="label_Copy" Content="Username : " HorizontalAlignment="Left" Margin="0.4,79,0,0" VerticalAlignment="Top" Height="39" Width="108" FontSize="16" Grid.RowSpan="2" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <Label x:Name="label_Copy1" Content="Password : " HorizontalAlignment="Left" Margin="0.4,22.8,0,0" VerticalAlignment="Top" Height="39" Width="103" FontSize="16" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="txtUN" HorizontalAlignment="Left" Height="39" Margin="93.4,79,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="204" Grid.ColumnSpan="2" FontSize="16" TextOptions.TextHintingMode="Fixed" Grid.RowSpan="2" Grid.Column="2"/>
+        <TextBox x:Name="txtPW" HorizontalAlignment="Left" Height="39" Margin="93.4,22.8,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="204" Grid.ColumnSpan="2" FontSize="16" Grid.Row="1" Grid.Column="2"/>
+        <Button x:Name="btnLogIn" Content="Login" HorizontalAlignment="Left" Margin="188.4,93.8,0,0" VerticalAlignment="Top" Width="109" Click="button_Click" Height="34" FontSize="16" Background="#FF362EB3" Foreground="#FFF6F6F6" Grid.Row="1" Grid.Column="2" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>

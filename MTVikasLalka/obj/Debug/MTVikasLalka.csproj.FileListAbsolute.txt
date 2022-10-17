@@ -1,0 +1,49 @@
+c:\users\aruna udana\documents\visual studio 2015\Projects\MTVikasLalka\MTVikasLalka\bin\Debug\MTVikasLalka.exe.config
+c:\users\aruna udana\documents\visual studio 2015\Projects\MTVikasLalka\MTVikasLalka\bin\Debug\MTVikasLalka.exe
+c:\users\aruna udana\documents\visual studio 2015\Projects\MTVikasLalka\MTVikasLalka\bin\Debug\MTVikasLalka.pdb
+c:\users\aruna udana\documents\visual studio 2015\Projects\MTVikasLalka\MTVikasLalka\obj\Debug\MTVikasLalka.csprojResolveAssemblyReference.cache
+c:\users\aruna udana\documents\visual studio 2015\Projects\MTVikasLalka\MTVikasLalka\obj\Debug\MainWindow.g.cs
+c:\users\aruna udana\documents\visual studio 2015\Projects\MTVikasLalka\MTVikasLalka\obj\Debug\App.g.cs
+c:\users\aruna udana\documents\visual studio 2015\Projects\MTVikasLalka\MTVikasLalka\obj\Debug\MTVikasLalka_MarkupCompile.cache
+c:\users\aruna udana\documents\visual studio 2015\Projects\MTVikasLalka\MTVikasLalka\obj\Debug\MTVikasLalka_MarkupCompile.lref
+c:\users\aruna udana\documents\visual studio 2015\Projects\MTVikasLalka\MTVikasLalka\obj\Debug\MainWindow.baml
+c:\users\aruna udana\documents\visual studio 2015\Projects\MTVikasLalka\MTVikasLalka\obj\Debug\MTVikasLalka.g.resources
+c:\users\aruna udana\documents\visual studio 2015\Projects\MTVikasLalka\MTVikasLalka\obj\Debug\MTVikasLalka.Properties.Resources.resources
+c:\users\aruna udana\documents\visual studio 2015\Projects\MTVikasLalka\MTVikasLalka\obj\Debug\MTVikasLalka.csproj.GenerateResource.Cache
+c:\users\aruna udana\documents\visual studio 2015\Projects\MTVikasLalka\MTVikasLalka\obj\Debug\MTVikasLalka.exe
+c:\users\aruna udana\documents\visual studio 2015\Projects\MTVikasLalka\MTVikasLalka\obj\Debug\MTVikasLalka.pdb
+c:\users\aruna udana\documents\visual studio 2015\Projects\MTVikasLalka\MTVikasLalka\obj\Debug\LogInForm.g.cs
+c:\users\aruna udana\documents\visual studio 2015\Projects\MTVikasLalka\MTVikasLalka\obj\Debug\LogInForm.baml
+c:\users\aruna udana\documents\visual studio 2015\Projects\MTVikasLalka\MTVikasLalka\obj\Debug\HockyForm.g.cs
+c:\users\aruna udana\documents\visual studio 2015\Projects\MTVikasLalka\MTVikasLalka\obj\Debug\HockyForm.baml
+c:\users\aruna udana\documents\visual studio 2015\Projects\MTVikasLalka\MTVikasLalka\obj\Debug\AboutMe.g.cs
+c:\users\aruna udana\documents\visual studio 2015\Projects\MTVikasLalka\MTVikasLalka\obj\Debug\AboutMe.baml
+c:\users\aruna udana\documents\visual studio 2015\Projects\MTVikasLalka\MTVikasLalka\obj\Debug\BasketForm.g.cs
+c:\users\aruna udana\documents\visual studio 2015\Projects\MTVikasLalka\MTVikasLalka\obj\Debug\BasketForm.baml
+c:\users\aruna udana\documents\visual studio 2015\Projects\MTVikasLalka\MTVikasLalka\obj\Debug\BaseForm.g.cs
+c:\users\aruna udana\documents\visual studio 2015\Projects\MTVikasLalka\MTVikasLalka\obj\Debug\BaseForm.baml
+E:\C#\MTVikasLalka\MTVikasLalka\bin\Debug\MTVikasLalka.exe.config
+E:\C#\MTVikasLalka\MTVikasLalka\bin\Debug\MTVikasLalka.exe
+E:\C#\MTVikasLalka\MTVikasLalka\bin\Debug\MTVikasLalka.pdb
+E:\C#\MTVikasLalka\MTVikasLalka\obj\Debug\MTVikasLalka.csprojAssemblyReference.cache
+E:\C#\MTVikasLalka\MTVikasLalka\obj\Debug\AboutMe.g.cs
+E:\C#\MTVikasLalka\MTVikasLalka\obj\Debug\BasketForm.g.cs
+E:\C#\MTVikasLalka\MTVikasLalka\obj\Debug\BaseForm.g.cs
+E:\C#\MTVikasLalka\MTVikasLalka\obj\Debug\HockyForm.g.cs
+E:\C#\MTVikasLalka\MTVikasLalka\obj\Debug\LogInForm.g.cs
+E:\C#\MTVikasLalka\MTVikasLalka\obj\Debug\MainWindow.g.cs
+E:\C#\MTVikasLalka\MTVikasLalka\obj\Debug\App.g.cs
+E:\C#\MTVikasLalka\MTVikasLalka\obj\Debug\MTVikasLalka_MarkupCompile.cache
+E:\C#\MTVikasLalka\MTVikasLalka\obj\Debug\MTVikasLalka_MarkupCompile.lref
+E:\C#\MTVikasLalka\MTVikasLalka\obj\Debug\AboutMe.baml
+E:\C#\MTVikasLalka\MTVikasLalka\obj\Debug\BasketForm.baml
+E:\C#\MTVikasLalka\MTVikasLalka\obj\Debug\BaseForm.baml
+E:\C#\MTVikasLalka\MTVikasLalka\obj\Debug\HockyForm.baml
+E:\C#\MTVikasLalka\MTVikasLalka\obj\Debug\LogInForm.baml
+E:\C#\MTVikasLalka\MTVikasLalka\obj\Debug\MainWindow.baml
+E:\C#\MTVikasLalka\MTVikasLalka\obj\Debug\MTVikasLalka.g.resources
+E:\C#\MTVikasLalka\MTVikasLalka\obj\Debug\MTVikasLalka.Properties.Resources.resources
+E:\C#\MTVikasLalka\MTVikasLalka\obj\Debug\MTVikasLalka.csproj.GenerateResource.cache
+E:\C#\MTVikasLalka\MTVikasLalka\obj\Debug\MTVikasLalka.csproj.CoreCompileInputs.cache
+E:\C#\MTVikasLalka\MTVikasLalka\obj\Debug\MTVikasLalka.exe
+E:\C#\MTVikasLalka\MTVikasLalka\obj\Debug\MTVikasLalka.pdb

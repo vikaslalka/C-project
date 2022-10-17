@@ -1,0 +1,15 @@
+﻿<Window x:Class="MTVikasLalka.AboutMe"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MTVikasLalka"
+        mc:Ignorable="d"
+        Title="AboutMe" Height="337" Width="495">
+    <Grid Background="LightGray">
+        <Label x:Name="label" Content="Hocky Player Form" HorizontalAlignment="Left" Margin="10,20,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Height="53" Width="163"/>
+        <Label x:Name="label_Copy" Content="Student ID : 991591221" HorizontalAlignment="Left" Margin="41,62,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Height="53" Width="279"/>
+        <Label x:Name="label_Copy1" Content="Student Name : Vikas Lalka" HorizontalAlignment="Left" Margin="41,102,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Height="53" Width="319"/>
+
+    </Grid>
+</Window>
